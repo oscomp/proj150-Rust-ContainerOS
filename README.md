@@ -12,6 +12,7 @@ proj150-Rust-ContainerOS
 而RancherOS则走的是从0-1的路线，Hos足够精小，仅有一个containerd，甚至没有glibc/bash等，所有的进程包括系统服务都跑在容器里。
 请用rust重新写一个ContainerOS，架构参考rancherOS
 
+https://github.com/rancher/os
 
 ### 所属赛道
 
